@@ -67,5 +67,4 @@ unit tests, risk assessment, and technical documentation.
 
 ## Licence
 
-MIT. Opentrons is a trademark of its respective owner. This repository is not
-affiliated with or endorsed by Opentrons, Hamilton, Tecan, or Lonza.
+MIT. Opentrons is a trademark of its respective owner. 
