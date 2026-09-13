@@ -1,0 +1,9 @@
+sample_id,source_well,plate_row,source_volume_ul,dead_volume_ul
+DP-001,A1,A,100,20
+DP-002,A2,B,100,20
+DP-003,A3,C,100,20
+DP-004,A4,D,100,20
+DP-005,A5,E,100,20
+DP-006,A6,F,100,20
+DP-007,B1,G,100,20
+DP-008,B2,H,100,20
